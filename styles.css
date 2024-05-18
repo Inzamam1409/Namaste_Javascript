@@ -1,0 +1,35 @@
+header
+{
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+.banner img{
+    max-width: 100%;
+}
+.banner .welcome {
+    position:absolute;
+    left: 8px;
+    top: 150px;
+    background-color: rgb(196, 233, 29);
+    color: black;
+    padding: 30px;
+
+} 
+h2{
+    font-size: 30px;
+
+}
+h1{
+    color: aliceblue;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 40px;
+
+}
