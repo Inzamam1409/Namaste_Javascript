@@ -9,8 +9,9 @@ header
     top: 0;
     left: 0;
 }
+
 .banner img{
-    max-width: 100%;
+      max-width: 100%;
 }
 .banner .welcome {
     position:absolute;
